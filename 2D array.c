@@ -20,4 +20,5 @@ int main()
     b+=a[i][j];
   }
 printf("%d ",b);}
-}   
+}  
+}
